@@ -86,6 +86,8 @@ affinity: {}
 postgresql:
   enabled: true
   fullnameOverride: postgresql
+  image:
+    repository: bitnamilegacy/postgresql
   auth:
     postgresPassword: password
 
