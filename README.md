@@ -1,6 +1,10 @@
 # Canvas LMS Helm chart
 
-❗ Please note that I make no claims about production-readiness of this; use at your own risk.
+> [!IMPORTANT]
+> I've decided to archive this repo as I'm no longer actively interested in maintaining it. The code is still available for reference and you're welcome to fork it if you'd like to continue development.
+
+> [!WARNING]
+>  Please note that I make no claim about production-readiness of this; use at your own risk.
 
 ❕ **Trademarks**: all trademarks are owned by the respective companies, and the use of them does not imply any affiliation or endorsement.
 
